@@ -1,0 +1,16 @@
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\bin\Debug\netstandard2.0\BT3_16520339.deps.json
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\bin\Debug\netstandard2.0\BT3_16520339.dll
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\bin\Debug\netstandard2.0\BT3_16520339.pdb
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\BT3_16520339.csprojAssemblyReference.cache
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\BT3_16520339.csproj.CoreCompileInputs.cache
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\BT3_16520339.AssemblyInfoInputs.cache
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\BT3_16520339.AssemblyInfo.cs
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\BT3_16520339.dll
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\BT3_16520339.pdb
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\PageInsertKindOfFlower.xaml.g.cs
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\PageInsertFlower.xaml.g.cs
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\PageDisplayKindOfFlower.xaml.g.cs
+C:\Users\dothi\source\repos\BT3_16520339\BT3_16520339\BT3_16520339\obj\Debug\netstandard2.0\PageListFlower.xaml.g.cs

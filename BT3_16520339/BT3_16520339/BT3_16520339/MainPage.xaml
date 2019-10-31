@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BT3_16520339"
+             x:Class="BT3_16520339.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button Text="Insert Kind Of Flower" x:Name="cmdInsertKindOfFlower" Clicked="CmdInsertKindOfFlower_Clicked"/>
+        <Button Text="Insert Flower" x:Name="cmdInsertFlower" Clicked="CmdInsertFlower_Clicked"/>
+        <Button Text="Display Kind Of Flower" x:Name="cmdDisplayKindOfFlower" Clicked="CmdDisplayKindOfFlower_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
